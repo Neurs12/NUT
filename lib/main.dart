@@ -49,7 +49,7 @@ class _State extends State<Nut> {
                   message = "I'm worried about your health man. STOP!";
                 }
                 if (1500 <= nut_time && nut_time < 2000) {
-                  message = "You died because of N U T T I N G too much...";
+                  message = "You died because o N U T T I N G too much...";
                 }
                 if (nut_time >= 2000) {
                   message = "Some legend said that he's still\nN U T T I N G to this day...";
